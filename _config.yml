@@ -16,7 +16,6 @@ sass:
 
 plugins:
   - jemoji
-
 nav:
  - name: "About"
    link: "/researcher/"
