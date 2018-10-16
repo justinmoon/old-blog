@@ -16,9 +16,10 @@ sass:
 
 plugins:
   - jemoji
-  
+
 nav:
  - name: "About"
    link: "/researcher/"
  - name: "Contact"
    link: "https://twitter.com/justinmoen"
+   
