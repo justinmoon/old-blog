@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Justin Moon
+url: "https://justinmoon.com"
+baseurl: ""
 
 markdown: kramdown
 
@@ -14,10 +14,11 @@ sass:
     style: compressed
     sass_dir: _sass
 
+plugins:
+  - jemoji
+
 nav:
  - name: "About"
    link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
  - name: "Contact"
-   link: "contact"
+   link: "https://twitter.com/justinmoen"
