@@ -19,7 +19,7 @@ plugins:
 
   
 nav:
- - name: "About"
-   link: "/researcher/"
+ - name: "Writing"
+   link: "/writing/"
  - name: "Contact"
-   link: "https://twitter.com/justinmoen"
+   link: "https://twitter.com/_justinmoon_"
