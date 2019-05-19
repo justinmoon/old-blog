@@ -1,5 +1,9 @@
 Deployments via https://jekyllrb.com/docs/deployment/automated/
 
+```
+git push deploy master
+```
+
 TODO SSL https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04
 
 # Researcher
